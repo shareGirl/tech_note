@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-高级篇
+Git篇
 =========================================
 
 .. toctree::
@@ -11,7 +11,7 @@
   :numbered:
   :glob:
 
-  advance/jvm_intro
+  advance/git
 
 * :ref:`genindex`
 * :ref:`modindex`
