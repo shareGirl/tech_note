@@ -25,7 +25,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # -- Project information -----------------------------------------------------
-project = '架构师路线'
+project = '前端成长之路'
 copyright = 'test'
 author = 'test'
 
