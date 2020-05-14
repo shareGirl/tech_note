@@ -68,7 +68,7 @@
 
 从本地推送分支，使用`git push origin branch-name`，如果推送失败，先用`git pull`抓取远程的新提交；
 
-# git本地仓库关联远程仓库
+## git本地仓库关联远程仓库
 
 要关联一个远程库，使用命令`git remote add origin https://github.com/shareGirl/learngit.git
 
